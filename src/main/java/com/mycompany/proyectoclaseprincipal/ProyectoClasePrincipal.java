@@ -26,5 +26,6 @@ public class ProyectoClasePrincipal {
        System.out.println("La edad del futbolista es: "+ futbolista.getedad());
        System.out.println("El nombre del futbolista es: " + futbolista.getName());
        futbolista.imprimirequipo();
+       System.out.println("Prueba para la rama desarrollo que luego fusionaremos con la rama master");
     }
 }
